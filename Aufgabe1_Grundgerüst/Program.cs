@@ -16,6 +16,10 @@ public static class Aufgabe_1
     {
 
         //Diese Zeile mit Ihrem Quellcode ersetzen
+        Console.WriteLine("Hote Check In App");
+		Console.WriteLine("1: Gast einchecken");
+		Console.WriteLine("2: Programm beenden");
+        
 
     }
 }
